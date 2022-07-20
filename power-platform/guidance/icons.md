@@ -12,6 +12,7 @@ ms.reviewer: kvivek
 # Microsoft Power Platform icons
 
 This article provides information about the official collection of icons for Microsoft Power Platform (Power Platform, Power Apps, Power Automate, Power BI, Power Pages, Power Virtual Agents, Dataverse, AI Builder, and Power Fx) that you can use in architectural diagrams, training materials, or documentation.
+Note Managed Enviroments Icon is not available in icon set download.
 
 ### Do’s
 
@@ -29,6 +30,7 @@ This article provides information about the official collection of icons for Mic
 
 |Month|Change description|
 |---|---|
+|July 2022|Managed Enviroments Icon will be available soon|
 |June 2022|Added icon for Power Fx.|
 |May 2022|Added icons for Power Platform, Power Pages, and AI Builder.|
 |June 2021|This article was created with the download location of the official icons.|
